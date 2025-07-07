@@ -2,6 +2,8 @@ Smart Parking Violation Management System – AWS Based
 ------------------------------------------------------------------------------------------------------------------------
 Final project for the AWS Cloud Computing course: A cloud-based system for managing and reporting parking violations in a private parking lot.
 
+This project simulates an MVP (Minimum Viable Product) designed for **Mobileye**, demonstrating an end-to-end parking enforcement solution based on AWS services.
+
 ------------------------------------------------------------------------------------------------------------------------
 
 🧩 Architecture
