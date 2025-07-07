@@ -38,20 +38,23 @@ A static HTML/CSS/JS interface is hosted on **Amazon S3** and connected live to 
 
 📂 Project Structure
 
-
-📁 system_spec/
+```
+system_spec/
 ├── Business Requirement.pdf
 ├── Architecture Diagram.pdf
 └── Presentation.pdf
-📁 functions/
+
+functions/
 ├── submit_violation_lambda.py
 ├── addBulkCar.py
 └── ...
-📁 interface/
+
+interface/
 ├── index.html
 ├── style.css
 └── script.js
-📄 README.md
+```
+
 
 
 ------------------------------------------------------------------------------------------------------------------------
